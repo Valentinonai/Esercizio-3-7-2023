@@ -88,6 +88,8 @@ let name1 = "john",
   name2 = "John";
 let risultato3 = name1 === name2;
 console.log(risultato3);
+console.log(risultato3 === false ? "i nomi sono diversi" : "i nomi sono uguali");
 
 risultato3 = name1.toLocaleLowerCase() === name2.toLocaleLowerCase();
 console.log(risultato3);
+console.log(risultato3 === false ? "i nomi sono diversi" : "i nomi sono uguali");
