@@ -59,12 +59,12 @@ console.log(x);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-Name = "Il tuo nome";
+Name = "Nai";
 console.log(Name);
 
 const Nome = "Valentino";
 console.log(Nome);
-/*Nome = "Il tuo nome";       Parte di codice commentata perchè blocca il programma
+/*Nome = "Nai";       Parte di codice commentata perchè blocca il programma
 console.log(Nome);*/
 
 /* ESERCIZIO 6
